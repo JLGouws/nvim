@@ -1,0 +1,20 @@
+vim.opt.guicursor      = ""
+vim.opt.exrc           = true
+vim.opt.tabstop        = 2 
+vim.opt.softtabstop    = 2
+vim.opt.shiftwidth     = 2
+vim.opt.expandtab      = true
+vim.opt.relativenumber = true
+vim.opt.nu             = true
+vim.opt.smartindent    = true
+vim.opt.hlsearch       = false
+vim.opt.hidden         = true
+vim.opt.errorbells     = false
+vim.opt.wrap           = false
+vim.opt.incsearch      = true
+vim.opt.scrolloff      = 10
+--vim.opt.colorcolumn    = 80
+--vim.opt.signcolumn     = true
+vim.opt.cmdheight      = 2
+
+vim.g.mapleader        = " "
